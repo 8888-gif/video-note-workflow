@@ -1,0 +1,9 @@
+downloads/
+BaiduUploadQueue/
+cookies.txt
+urls.txt
+*.log
+*.tmp
+*.part
+*.ytdl
+

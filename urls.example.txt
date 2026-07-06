@@ -1,0 +1,7 @@
+# 把要下载的 B 站视频链接一行一个放在这里。
+# 支持普通视频页链接、BV号、av号、合集/分P链接。
+# 以 # 开头的行会被忽略。
+#
+# 示例：
+# https://www.bilibili.com/video/BVxxxxxxxxxx/
+
